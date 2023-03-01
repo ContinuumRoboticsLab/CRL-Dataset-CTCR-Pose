@@ -56,7 +56,7 @@ This repository is part of the following publication.
 If you want to cite our CRL-Dataset-CTCR-Pose, you can use our [paper](https://doi.org/10.1109/IROS47612.2022.9981719):
 
 ```bibtex
-    @inproceedings{GrassmannBurgner-Kahrs_et_al_RSS_WS_2022,
+    @inproceedings{GrassmannBurgner-Kahrs_et_al_IROS_2022,
         title       =   {A Dataset and Benchmark for Learning the Kinematics of Concentric Tube Continuum Robots},
         author      =   {Grassmann, Reinhard M. and Chen, Ryan Zeyuan and Liang, Nan and Burgner-Kahrs, Jessica},
         doi         =   {10.1109/IROS47612.2022.9981719}
