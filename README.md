@@ -53,14 +53,14 @@ For learning the kinematics of a CTCR, please take a look at the following paper
 ### BibTeX
 
 This repository is part of the following publication.
-If you want to cite our CRL-Dataset-CTCR-Pose, you can use our [paper](https://openreview.net/pdf?id=DW9uz_GZ0og):
+If you want to cite our CRL-Dataset-CTCR-Pose, you can use our [paper](https://doi.org/10.1109/IROS47612.2022.9981719):
 
 ```bibtex
     @inproceedings{GrassmannBurgner-Kahrs_et_al_RSS_WS_2022,
         title       =   {A Dataset and Benchmark for Learning the Kinematics of Concentric Tube Continuum Robots},
         author      =   {Grassmann, Reinhard M. and Chen, Ryan Zeyuan and Liang, Nan and Burgner-Kahrs, Jessica},
-        url         =   {https://openreview.net/pdf?id=DW9uz_GZ0og},
+        doi         =   {10.1109/IROS47612.2022.9981719}
         year        =   {2022},
-        booktitle   =   {Robotics: Science and Systems -- Workshop on Learning from Diverse, Offline Data (L-DOD)},
+        booktitle   =   {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
     }
 ```
